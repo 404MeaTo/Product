@@ -1,0 +1,125 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,300;1,500&display=swap");
+.button_sign button {
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  color: #173a56;
+  font-weight: bold;
+}
+.list ul li a {
+  text-decoration: none;
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  color: #22343d;
+}
+h1 {
+  font-family: "Poppins", sans-serif;
+  font-size: 40px;
+  color: #22343d;
+  font-weight: bold;
+}
+h2 {
+  font-family: "Poppins", sans-serif;
+  font-size: 32px;
+  color: #22343d;
+  font-weight: bold;
+}
+h3 {
+  font-family: "Poppins", sans-serif;
+  font-size: 22px;
+  color: #22343d;
+  font-weight: bold;
+}
+h4 {
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  color: #22343d;
+  font-weight: bold;
+}
+h5 {
+  font-family: "Poppins", sans-serif;
+  font-size: 32px;
+  color: #22343d;
+  font-weight: bold;
+}
+body {
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  color: #22343d;
+}
+a {
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  color: #22343d;
+}
+.watch a {
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  color: #02897a;
+  font-weight: bold;
+}
+.watch button {
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  color: #173a56;
+  font-weight: bold;
+}
+.Products_button {
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  color: #173a56;
+  font-weight: bold;
+}
+.Quick {
+  font-family: "Poppins", sans-serif;
+  font-size: 22px;
+  color: #173a56;
+  font-weight: bold;
+}
+strong {
+  font-family: "Poppins", sans-serif;
+  font-size: 76px;
+  color: #02897a;
+  font-weight: bolder;
+  font-style: normal;
+}
+sup {
+  font-family: "Poppins", sans-serif;
+  font-size: 24px;
+  color: #02897a;
+  font-weight: bolder;
+  font-style: normal;
+
+  text-transform: uppercase;
+  position: relative;
+  top: -10px;
+  left: -10px;
+}
+i {
+  opacity: 0.5;
+  position: relative;
+  left: -25px;
+}
+.price_button {
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  color: white;
+  font-weight: bold;
+}
+.Compannies button {
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  color: #02897a;
+  font-weight: bold;
+}
+footer input {
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  color: #22343d;
+}
+footer button {
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  color: #02897a;
+  font-weight: bold;
+}

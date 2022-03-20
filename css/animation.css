@@ -1,0 +1,160 @@
+.button_sign button {
+  -webkit-transition: 0.4s ease-in-out;
+  -moz-transition: 0.4s ease-in-out;
+  -o-transition: 0.4s ease-in-out;
+  transition: 0.4s ease-in-out;
+}
+.button_sign button:hover {
+  color: white;
+  background-color: #02897a;
+}
+.list ul li a:hover {
+  font-weight: bold;
+}
+.watch button {
+  -webkit-transition: 0.4s ease-in-out;
+  -moz-transition: 0.4s ease-in-out;
+  -o-transition: 0.4s ease-in-out;
+  transition: 0.4s ease-in-out;
+}
+.watch button:hover {
+  color: white;
+  background-color: #02897a;
+}
+.Products_button {
+  -webkit-transition: 0.4s ease-in-out;
+  -moz-transition: 0.4s ease-in-out;
+  -o-transition: 0.4s ease-in-out;
+  transition: 0.4s ease-in-out;
+}
+.Products_button:hover {
+  color: white;
+  background-color: #02897a;
+}
+.Quick {
+  -webkit-transition: 0.4s ease-in-out;
+  -moz-transition: 0.4s ease-in-out;
+  -o-transition: 0.4s ease-in-out;
+  transition: 0.4s ease-in-out;
+}
+.Quick:hover {
+  color: white;
+  background-color: #02897a;
+}
+.strag_block {
+  -webkit-transition: 0.3s ease-in-out;
+  -moz-transition: 0.3s ease-in-out;
+  -o-transition: 0.3s ease-in-out;
+  transition: 0.3s ease-in-out;
+}
+.strag_block:hover {
+  box-shadow: 0 0 15px 10px rgba(122, 122, 122, 0.5);
+}
+.strag_block:hover h3 {
+  color: #02897a;
+}
+
+.price_button {
+  -webkit-transition: 0.3s ease-in-out;
+  -moz-transition: 0.3s ease-in-out;
+  -o-transition: 0.3s ease-in-out;
+  transition: 0.3s ease-in-out;
+}
+.price div {
+  -webkit-transition: 0.3s ease-in-out;
+  -moz-transition: 0.3s ease-in-out;
+  -o-transition: 0.3s ease-in-out;
+  transition: 0.3s ease-in-out;
+}
+strong {
+  -webkit-transition: 0.3s ease-in-out;
+  -moz-transition: 0.3s ease-in-out;
+  -o-transition: 0.3s ease-in-out;
+  transition: 0.3s ease-in-out;
+}
+strong sup {
+  -webkit-transition: 0.3s ease-in-out;
+  -moz-transition: 0.3s ease-in-out;
+  -o-transition: 0.3s ease-in-out;
+  transition: 0.3s ease-in-out;
+}
+.price div:hover {
+  background-color: #02897a;
+  color: white;
+  box-shadow: 0 0 15px 10px rgba(122, 122, 122, 0.5);
+  padding: 35px;
+  margin-left: 37.44px;
+  margin-right: 37.44px;
+}
+.price div:hover .price_button {
+  color: #02897a;
+  background-color: white;
+}
+.price div:hover strong {
+  color: white;
+}
+.price div:hover strong sup {
+  color: white;
+}
+.price_button:hover {
+  box-shadow: 0 0 15px 10px #00574d;
+}
+.people_say {
+  -webkit-transition: 0.3s ease-in-out;
+  -moz-transition: 0.3s ease-in-out;
+  -o-transition: 0.3s ease-in-out;
+  transition: 0.3s ease-in-out;
+}
+.people_say:hover {
+  box-shadow: 0 0 15px 10px rgba(122, 122, 122, 0.5);
+}
+.people_say h4 {
+  -webkit-transition: 0.3s ease-in-out;
+  -moz-transition: 0.3s ease-in-out;
+  -o-transition: 0.3s ease-in-out;
+  transition: 0.3s ease-in-out;
+}
+.people_say:hover h4 {
+  color: #02897a;
+}
+.Compannies button {
+  -webkit-transition: 0.3s ease-in-out;
+  -moz-transition: 0.3s ease-in-out;
+  -o-transition: 0.3s ease-in-out;
+  transition: 0.3s ease-in-out;
+}
+.Compannies button:hover {
+  box-shadow: 0 0 15px 10px #00574d;
+}
+footer div ul li div {
+  -webkit-transition: 0.3s ease-in-out;
+  -moz-transition: 0.3s ease-in-out;
+  -o-transition: 0.3s ease-in-out;
+  transition: 0.3s ease-in-out;
+}
+footer div ul li div:hover {
+  box-shadow: 0 0 15px 10px rgba(122, 122, 122, 0.5);
+  background-color: #6bc5b4;
+}
+footer input {
+  -webkit-transition: 0.3s ease-in-out;
+  -moz-transition: 0.3s ease-in-out;
+  -o-transition: 0.3s ease-in-out;
+  transition: 0.3s ease-in-out;
+}
+footer input:hover {
+  box-shadow: 0 0 15px 10px rgba(122, 122, 122, 0.5);
+}
+footer input:focus {
+  box-shadow: 0 0 15px 10px rgba(122, 122, 122, 0.5);
+}
+footer button {
+  -webkit-transition: 0.3s ease-in-out;
+  -moz-transition: 0.3s ease-in-out;
+  -o-transition: 0.3s ease-in-out;
+  transition: 0.3s ease-in-out;
+}
+footer button:hover {
+  color: white;
+  background-color: #02897a;
+}
